@@ -61,4 +61,4 @@ The lite scripts cover the basics. The full **Windows File Organizer PowerShell 
 - Scheduled-task setup with a guide, a demo-folder generator for safe testing
 - Bash equivalents for Linux/macOS/WSL
 
-Get it here: https://blixwerk-shop.kontor7-agent.deno.net/p/windows-file-organizer-powershell-kit?s=github
+Get it here: https://kontor7-agent.github.io/p/windows-file-organizer-powershell-kit?s=github
